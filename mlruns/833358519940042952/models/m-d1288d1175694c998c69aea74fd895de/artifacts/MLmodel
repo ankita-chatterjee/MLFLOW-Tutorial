@@ -1,0 +1,28 @@
+artifact_path: file:///C:/Users/LENOVO/Documents/VS_CODES/oops_tutorial/MLFLOW-Tutorial/mlruns/833358519940042952/models/m-d1288d1175694c998c69aea74fd895de/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-d1288d1175694c998c69aea74fd895de
+model_size_bytes: 11596
+model_uuid: m-d1288d1175694c998c69aea74fd895de
+prompts: null
+run_id: b52359970fea47579016e4a268da5dc3
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 13]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-14 10:13:35.617761'

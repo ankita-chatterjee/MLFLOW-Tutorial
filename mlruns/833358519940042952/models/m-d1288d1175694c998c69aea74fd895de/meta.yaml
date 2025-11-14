@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/LENOVO/Documents/VS_CODES/oops_tutorial/MLFLOW-Tutorial/mlruns/833358519940042952/models/m-d1288d1175694c998c69aea74fd895de/artifacts
+creation_timestamp: 1763115215559
+experiment_id: '833358519940042952'
+last_updated_timestamp: 1763115220326
+model_id: m-d1288d1175694c998c69aea74fd895de
+model_type: ''
+name: model
+source_run_id: b52359970fea47579016e4a268da5dc3
+status: 2
+status_message: null
