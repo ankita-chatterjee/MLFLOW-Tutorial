@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/LENOVO/Documents/VS_CODES/oops_tutorial/MLFLOW-Tutorial/mlruns/803719107560492766/025d599315e94fc8b9c5dedf36da0012/artifacts
+end_time: 1763119547211
+entry_point_name: ''
+experiment_id: '803719107560492766'
+lifecycle_stage: active
+run_id: 025d599315e94fc8b9c5dedf36da0012
+run_name: fun-koi-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763119547180
+status: 3
+tags: []
+user_id: LENOVO

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/LENOVO/Documents/VS_CODES/oops_tutorial/MLFLOW-Tutorial/mlruns/803719107560492766/models/m-446892feec194e5b81d2b5e5a4818732/artifacts
+creation_timestamp: 1763119547695
+experiment_id: '803719107560492766'
+last_updated_timestamp: 1763119552545
+model_id: m-446892feec194e5b81d2b5e5a4818732
+model_type: null
+name: random_forest
+source_run_id: 5f7f30cc44314772b87f44ca9cad5aaa
+status: 2
+status_message: null

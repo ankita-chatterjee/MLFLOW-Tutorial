@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/LENOVO/Documents/VS_CODES/oops_tutorial/MLFLOW-Tutorial/mlruns/803719107560492766
+creation_time: 1763119542112
+experiment_id: '803719107560492766'
+last_update_time: 1763119542112
+lifecycle_stage: active
+name: breast-cancer-rf-hp
